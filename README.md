@@ -2,5 +2,5 @@
 
 PRIMEIRAMENTE:
 
-pip install pytube n\
+pip install pytube \
 pip install moviepy
